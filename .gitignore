@@ -1,0 +1,7 @@
+# Windows thumbnail database
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Power BI temporary files
+*.tmp

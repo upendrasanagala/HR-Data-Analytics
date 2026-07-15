@@ -85,6 +85,11 @@ The interactive report (**`HR Analytics.pbix`**) is designed to answer critical 
 
 
 ![HR Analytics Dashboard](screenshots/exceutivesummary.png)
+![HR Analytics Dashboard](screenshots/AttritionAnalysis.png)
+![HR Analytics Dashboard](screenshots/EmployeeDemographics.png)
+![HR Analytics Dashboard](screenshots/performanceanalysis.png)
+![HR Analytics Dashboard](screenshots/salaryanalysis.png)
+
 
 
 ---

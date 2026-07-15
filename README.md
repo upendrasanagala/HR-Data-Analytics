@@ -83,6 +83,10 @@ The interactive report (**`HR Analytics.pbix`**) is designed to answer critical 
 4. **Geographical Distribution**: Map visualizations showing headcount distribution across various states.
 5. **Work Preference Analysis**: Analysis of hybrid vs. remote vs. in-office splits across departments.
 
+
+![HR Analytics Dashboard](screenshots/exceutivesummary.png)
+
+
 ---
 
 ## 🚀 How to Get Started
@@ -95,3 +99,5 @@ The interactive report (**`HR Analytics.pbix`**) is designed to answer critical 
 1. Create a database named `HR Analytics`.
 2. Import the `HR_Analytics_Final.csv` dataset as a table named `Employees`.
 3. Open `SQLQuery.sql` in SSMS and run queries against the database.
+
+
